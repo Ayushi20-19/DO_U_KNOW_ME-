@@ -30,7 +30,7 @@ var questions = [{
 },
  {
   question: "Which is my fav web series?",
-  answer: "Dark"
+  answer: "GOT"
 }, {
   question: "What my Friends used to call me?",
   answer: "UC"
@@ -41,11 +41,11 @@ var questions = [{
   question: "What is her nickname?",
   answer: "Nano"
 }, {
-  question: "What is my favorite tech language?",
+  question: "What is the my favorite tech language?",
   answer: "Javascript"
 }, {
-  question: "What is name of my favorite game?",
-  answer: "Lucknow"
+  question: "What is the name of my favorite game?",
+  answer: "BasketBall"
 },];
 const welcomeUser =()=>{
   var userName = readlineSync.question("What's your name? ");
